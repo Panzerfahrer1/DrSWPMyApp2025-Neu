@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DrSWPMyApp2025.props" />
+</Project>

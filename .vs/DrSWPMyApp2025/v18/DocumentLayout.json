@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126CD3E0-EE28-4AD4-AFD0-DD6CC2231F64}|02MovieList\\02MovieList.csproj|c:\\users\\olive\\source\\repos\\drswpmyapp2025\\02movielist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126CD3E0-EE28-4AD4-AFD0-DD6CC2231F64}|02MovieList\\02MovieList.csproj|solutionrelative:02movielist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|c:\\users\\olive\\source\\repos\\drswpmyapp2025\\03social media postings\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|solutionrelative:03social media postings\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|c:\\users\\olive\\source\\repos\\drswpmyapp2025\\03social media postings\\repositories\\postingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|solutionrelative:03social media postings\\repositories\\postingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|c:\\users\\olive\\source\\repos\\drswpmyapp2025\\03social media postings\\controllers\\postingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|solutionrelative:03social media postings\\controllers\\postingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|c:\\users\\olive\\source\\repos\\drswpmyapp2025\\03social media postings\\views\\postings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|solutionrelative:03social media postings\\views\\postings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|c:\\users\\olive\\source\\repos\\drswpmyapp2025\\03social media postings\\repositories\\ipostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A250-3AAA-4973-B3B5-32588BB0000D}|03Social Media Postings\\03Social Media Postings.csproj|solutionrelative:03social media postings\\repositories\\ipostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 147,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\02MovieList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "02MovieList\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\02MovieList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "02MovieList\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:50:10.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\README.md",
+              "RelativeDocumentMoniker": "03Social Media Postings\\README.md",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\README.md",
+              "RelativeToolTip": "03Social Media Postings\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-25T09:44:06.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\Views\\Postings\\Index.cshtml",
+              "RelativeDocumentMoniker": "03Social Media Postings\\Views\\Postings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\Views\\Postings\\Index.cshtml",
+              "RelativeToolTip": "03Social Media Postings\\Views\\Postings\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T13:57:45.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostingsController.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\Controllers\\PostingsController.cs",
+              "RelativeDocumentMoniker": "03Social Media Postings\\Controllers\\PostingsController.cs",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\Controllers\\PostingsController.cs",
+              "RelativeToolTip": "03Social Media Postings\\Controllers\\PostingsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwDgAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:42:18.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\Repositories\\PostingRepository.cs",
+              "RelativeDocumentMoniker": "03Social Media Postings\\Repositories\\PostingRepository.cs",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\Repositories\\PostingRepository.cs",
+              "RelativeToolTip": "03Social Media Postings\\Repositories\\PostingRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:06:26.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPostingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\Repositories\\IPostingRepository.cs",
+              "RelativeDocumentMoniker": "03Social Media Postings\\Repositories\\IPostingRepository.cs",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\03Social Media Postings\\Repositories\\IPostingRepository.cs",
+              "RelativeToolTip": "03Social Media Postings\\Repositories\\IPostingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:04:56.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

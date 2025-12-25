@@ -1,0 +1,11 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+###POST new user
+POST https://localhost:32777/users
+Content-Type: application/json
+{
+    "name" : "Max"
+}
+
+###GET
+GET https://localhost:7013/users
+Content-Type: application/json

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ieXDFCiHcrQZjrgktl6hVIXIyVclcieyk8yzkZWxm58=",
+  "Source": "DrSWPMyApp2025",
+  "BasePath": "_content/DrSWPMyApp2025",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DrSWPMyApp2025\\wwwroot",
+      "Source": "DrSWPMyApp2025",
+      "ContentRoot": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\DrSWPMyApp2025\\wwwroot\\",
+      "BasePath": "_content/DrSWPMyApp2025",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\DrSWPMyApp2025\\wwwroot\\Images\\Preuer-Gottfried-199x300.jpg",
+      "SourceId": "DrSWPMyApp2025",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\DrSWPMyApp2025\\wwwroot\\",
+      "BasePath": "_content/DrSWPMyApp2025",
+      "RelativePath": "Images/Preuer-Gottfried-199x300.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Preuer-Gottfried-199x300.jpg"
+    }
+  ]
+}

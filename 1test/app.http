@@ -1,0 +1,11 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+###POST
+POST https://localhost:7094/addUser
+Content-Type: application/json
+{
+    "id": 1,
+    "name": "Max",
+    "email": "mawd",
+    "age": 10,
+    "isVerified": true
+}

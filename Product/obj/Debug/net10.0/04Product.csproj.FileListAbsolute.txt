@@ -1,0 +1,6 @@
+C:\Users\olive\source\repos\DrSWPMyApp2025\Product\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\olive\source\repos\DrSWPMyApp2025\Product\obj\Debug\net10.0\04Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\DrSWPMyApp2025\Product\obj\Debug\net10.0\04Product.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\DrSWPMyApp2025\Product\obj\Debug\net10.0\04Product.AssemblyInfo.cs
+C:\Users\olive\source\repos\DrSWPMyApp2025\Product\obj\Debug\net10.0\04Product.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\DrSWPMyApp2025\Product\obj\Debug\net10.0\04Product.MvcApplicationPartsAssemblyInfo.cache

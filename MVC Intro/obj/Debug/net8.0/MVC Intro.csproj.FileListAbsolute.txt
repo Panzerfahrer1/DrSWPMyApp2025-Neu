@@ -1,0 +1,30 @@
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\bin\Debug\net8.0\appsettings.json
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\bin\Debug\net8.0\MVC Intro.staticwebassets.runtime.json
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\bin\Debug\net8.0\MVC Intro.exe
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\bin\Debug\net8.0\MVC Intro.deps.json
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\bin\Debug\net8.0\MVC Intro.runtimeconfig.json
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\bin\Debug\net8.0\MVC Intro.dll
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\bin\Debug\net8.0\MVC Intro.pdb
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.AssemblyInfo.cs
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.RazorAssemblyInfo.cache
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.RazorAssemblyInfo.cs
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\staticwebassets\msbuild.MVC Intro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Intro.props
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Intro.props
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Intro.props
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\scopedcss\bundle\MVC Intro.styles.css
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\scopedcss\projectbundle\MVC Intro.bundle.scp.css
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.dll
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\refint\MVC Intro.dll
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.pdb
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\MVC Intro.genruntimeconfig.cache
+C:\Users\olive\source\repos\DrSWPMyApp2025\MVC Intro\obj\Debug\net8.0\ref\MVC Intro.dll

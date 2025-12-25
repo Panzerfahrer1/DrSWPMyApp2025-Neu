@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fX6REs60JEI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olive\\source\\repos\\DrSWPMyApp2025\\1TestKorrekturOderSoImmerImCamelCaseSchreibenDuIdiotOkPasstAllesDasPasst\\1TestKorrekturOderSoImmerImCamelCaseSchreibenDuIdiotOkPasstAllesDasPasst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

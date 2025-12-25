@@ -1,0 +1,10 @@
+﻿<h1>Erstellen</h1>
+
+<form asp-action="Create" method="post">
+    <input type="text" name="title" class="form-control" required />
+    <input type="date" name="releaseDate" class="form-control" required />
+    <input type="text" name="genre" required />
+    <input type="number" step="0.01" name="price" required />
+
+    <button type="submit" class="btn btn-primary">Speichern</button>
+</form>
