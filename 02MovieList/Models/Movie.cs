@@ -4,7 +4,7 @@ namespace _02MovieList.Models
 {
     public class Movie
     {
-        private static int nextId = 1;
+        private static int nextId = 0;
         public int Id { get; set; }
         public string? Title { get; set; }
         [DataType(DataType.Date)]

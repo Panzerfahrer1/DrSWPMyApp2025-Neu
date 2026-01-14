@@ -41370,3 +41370,5 @@
 09:10:20.0238 | 0HNGE362V6762 | '/users' | 'Microsoft.AspNetCore.Http.QueryCollection' | 
 17:10:16.4213 | 0HNGFT89NUJL2 | '/' | 'Microsoft.AspNetCore.Http.QueryCollection' | 
 17:10:16.5089 | 0HNGFT89NUJL2 | '/favicon.ico' | 'Microsoft.AspNetCore.Http.QueryCollection' | 
+14:01:10.1206 | 0HNIDTN71P0RK | '/' | 'Microsoft.AspNetCore.Http.QueryCollection' | 
+14:01:10.1939 | 0HNIDTN71P0RK | '/favicon.ico' | 'Microsoft.AspNetCore.Http.QueryCollection' | 

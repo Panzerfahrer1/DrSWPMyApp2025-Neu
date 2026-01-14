@@ -7,7 +7,7 @@ namespace _02MovieList.Services
         List<Movie> GetAll();
         Movie? GetById(int id);
         void Create(string title, DateTime releaseDate, string genre, decimal price);
-        void Update(string title, DateTime releaseDate, string genre, decimal price);
+        void Update(int id, string title, DateTime releaseDate, string genre, decimal price);
         void Delete(int id);
     }
 }

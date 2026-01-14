@@ -19,7 +19,7 @@ namespace _02MovieList.Services
 
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            _repository.Delte(id);
         }
 
         public List<Movie> GetAll()
@@ -29,12 +29,12 @@ namespace _02MovieList.Services
 
         public Movie? GetById(int id)
         {
-            throw new NotImplementedException();
+            return _repository.GetById(id);
         }
 
-        public void Update(string title, DateTime releaseDate, string genre, decimal price)
+        public void Update(int id, string title, DateTime releaseDate, string genre, decimal price)
         {
-            throw new NotImplementedException();
+            _repository.Update(id, title, releaseDate, genre, price);
         }
     }
 }

@@ -96,3 +96,4 @@ C:\Users\olive\source\repos\DrSWPMyApp2025\02MovieList\obj\Debug\net10.0\refint\
 C:\Users\olive\source\repos\DrSWPMyApp2025\02MovieList\obj\Debug\net10.0\02MovieList.pdb
 C:\Users\olive\source\repos\DrSWPMyApp2025\02MovieList\obj\Debug\net10.0\02MovieList.genruntimeconfig.cache
 C:\Users\olive\source\repos\DrSWPMyApp2025\02MovieList\obj\Debug\net10.0\ref\02MovieList.dll
+C:\Users\olive\source\repos\DrSWPMyApp2025\02MovieList\obj\Debug\net10.0\02MovieList.sourcelink.json

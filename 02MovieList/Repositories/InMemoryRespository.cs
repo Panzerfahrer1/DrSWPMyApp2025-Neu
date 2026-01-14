@@ -12,14 +12,11 @@ namespace _02MovieList.Repositories
             new Models.Movie("Pulp Fiction", new DateTime(1994, 10, 14), "Crime", 9.99m)
         };
 
-        public void Update(Movie movie)
+        public void Update(int id, string title, DateTime releaseDate, string genre, decimal price)
         {
-            if(movie.CheckValues(movie) == false)
-            {
-                throw new ArgumentException("Movie has invalid values", nameof(movie));
-            }
+            Movie movie = new Movie(title, releaseDate, genre, price);
 
-            var existingMovie = GetById(movie.Id);
+            var existingMovie = GetById(id);
 
             existingMovie?.Update(movie);
         }   

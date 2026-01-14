@@ -8,7 +8,7 @@ namespace _02MovieList.Repositories
         List<Movie> GetAll();
         Movie? GetById(int id);
         void Add(Movie movie);
-        void Update(Movie movie);
+        void Update(int id, string title, DateTime releaseDate, string genre, decimal price);
         void Delte(int id);
     }
 }
