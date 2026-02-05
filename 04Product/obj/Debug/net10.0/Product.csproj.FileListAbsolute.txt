@@ -194,3 +194,4 @@ C:\Users\olive\source\repos\DrSWPMyApp2025\04Product\obj\Debug\net10.0\refint\Pr
 C:\Users\olive\source\repos\DrSWPMyApp2025\04Product\obj\Debug\net10.0\Product.pdb
 C:\Users\olive\source\repos\DrSWPMyApp2025\04Product\obj\Debug\net10.0\Product.genruntimeconfig.cache
 C:\Users\olive\source\repos\DrSWPMyApp2025\04Product\obj\Debug\net10.0\ref\Product.dll
+C:\Users\olive\source\repos\DrSWPMyApp2025\04Product\obj\Debug\net10.0\Product.sourcelink.json

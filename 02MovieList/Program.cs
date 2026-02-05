@@ -1,3 +1,4 @@
+using _02MovieList.Middlewear;
 using _02MovieList.Repositories;
 using _02MovieList.Services;
 
@@ -24,12 +25,17 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.UseMiddleware<Custom>();
+app.UseMiddleware<LoggingMiddlewear>();
+app.UseMiddleware<ErrorHandlingMiddleware>();
+
 app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
+
 
 
 app.Run();
